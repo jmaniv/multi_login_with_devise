@@ -1,3 +1,5 @@
+Sample Rails3 project for issue https://github.com/plataformatec/devise/issues/2190
+
 ## Installation
 
 Install the gems:
