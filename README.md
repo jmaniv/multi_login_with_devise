@@ -8,7 +8,7 @@ Install the gems:
 bundle install
 ```
 
-I have attached login credentials in seed.rb
+I have attached login credentials in seeds.rb
 
 Rake devise setup task:
 
